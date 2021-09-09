@@ -1,0 +1,52 @@
+.dog {
+
+}
+
+.yiro {
+  font-size: 30px;
+  color:  blue;
+}
+
+.intro {
+  color: orange;
+}
+
+.my-image{
+  height: 200px;
+  width: 200px;
+}
+.my-div{
+
+}
+.my-div-one{
+  background-color: yellow;
+  height: 150px;
+  width: 550px;
+}
+.my-div-two{
+  background-color: blue;
+  height: 150px;
+  width: 550px;
+}
+.my-div-three{
+  background-color: red;
+  height: 150px;
+  width: 550px;
+}
+
+.footer {
+  background-color:  black;
+  width:  100vh;
+}
+
+.white-letter {
+  color:  white;
+}
+
+.pkly {
+  background-color: yellow;
+}
+
+body {
+  background-color:orange;
+}
